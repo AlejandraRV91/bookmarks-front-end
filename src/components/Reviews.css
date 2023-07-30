@@ -1,0 +1,22 @@
+.hide{
+    display: none;
+}
+
+.show-form {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.show-form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.show-form button:hover {
+    background-color: #0056b3;
+}
